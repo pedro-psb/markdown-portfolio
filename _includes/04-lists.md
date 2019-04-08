@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- tangerine
+- banana
+- lemon juice
+- watermelon
